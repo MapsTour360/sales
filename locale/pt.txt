@@ -1,0 +1,14 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_99E08CE7_89D4_7947_41D0_53266B56FADB.label = IMG_20230220_142623_272
+panorama_9866D780_89D7_97B9_41DD_00C5D62BF450.label = IMG_20230220_143051_876
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 5
